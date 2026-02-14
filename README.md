@@ -109,7 +109,8 @@ The app allows interactive testing of different classification models on uploade
 ## 8. Project Structure
 
 ```
-adult-income-ml-classification/
+adult-income-ml-classification/ 
+│-- 2025AA05438_model_development.ipynb
 │-- app.py
 │-- requirements.txt
 │-- README.md
@@ -127,3 +128,4 @@ adult-income-ml-classification/
 ## 9. Deployment
 
 The application is deployed using **Streamlit Community Cloud** and connected to this GitHub repository.
+
